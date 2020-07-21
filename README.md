@@ -22,4 +22,4 @@ panic-full-*.ips
 ```
 
 ## Latest Version
-v1.0
+v1.0.0
