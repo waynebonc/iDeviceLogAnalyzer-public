@@ -7,7 +7,7 @@ A quick and easy panic log extraction and analysis tool for iDevices.
 This app makes use of [Squirrel](https://github.com/Squirrel/Squirrel.Windows), a one click installation and update framework. Setup files produced with this framework have a habit of being falsely detected as various types of malware, such as a backdoor or trojan (see issue [#1204](https://github.com/Squirrel/Squirrel.Windows/issues/1204), [#1653](https://github.com/Squirrel/Squirrel.Windows/issues/1653)). The only fix for this is for me to codesign the application with a certificate, which incurs yearly $4xx costs. I have no intention on doing this due the project receiving only a handful of donations.
 
 `
-Update 04/28/21 - A portable version of this app will be released at a later stage. This will solve malware detection issues.
+Update 08/28/21 - A portable version of this app will be released at a later stage. This will solve malware detection issues.
 `  
 
 ### Workaround for Windows 10 Users
