@@ -32,6 +32,6 @@ panic-full-*.ips
 ```
 
 ## Latest Version
-v1.4.1
+v1.5.0
 
 <sup>This repository is the updater endpoint.</sup>
