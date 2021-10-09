@@ -3,12 +3,10 @@ A quick and easy panic log extraction and analysis tool for iDevices.
 
 <img src="https://github.com/waynebonc/iDeviceLogAnalyzer-public/blob/master/image.jpg" width="350">
 
-## False Malware Detection
-This app makes use of [Squirrel](https://github.com/Squirrel/Squirrel.Windows), a one click installation and update framework. Setup files produced with this framework have a habit of being falsely detected as various types of malware, such as a backdoor or trojan (see issue [#1204](https://github.com/Squirrel/Squirrel.Windows/issues/1204), [#1653](https://github.com/Squirrel/Squirrel.Windows/issues/1653)). The only fix for this is for me to codesign the application with a certificate, which incurs yearly $4xx costs. I have no intention on doing this due the project receiving only a handful of donations.
+## False Malware Detection - "Installation has failed"
+**This issue has been resolved by Microsoft. Please ensure you have the latest Windows 10 and Windows Defender updates installed prior to installing iDevice Panic Log Analyzer.**<br>
 
-`
-Update 08/28/21 - A portable version of this app will be released at a later stage. This will solve malware detection issues.
-`  
+This app makes use of [Squirrel](https://github.com/Squirrel/Squirrel.Windows), a one click installation and update framework. Setup files produced with this framework have a habit of being falsely detected as various types of malware, such as a backdoor or trojan (see issue [#1204](https://github.com/Squirrel/Squirrel.Windows/issues/1204), [#1653](https://github.com/Squirrel/Squirrel.Windows/issues/1653)). The only fix for this is for me to codesign the application with a certificate, which incurs yearly $4xx costs. I have no intention on doing this due the project receiving only a handful of donations.
 
 ### Workaround for Windows 10 Users
 - Make sure Virus and Threat Protection is on.
