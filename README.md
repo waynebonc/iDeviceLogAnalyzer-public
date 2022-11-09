@@ -17,6 +17,11 @@ iTunes or Apple Mobile Device Support must be installed.
 panic-full-*.ips
 ```
 
+Also supports analyzing existing `panic-full-*.ips` files via drag&drop!
+It doesn't really, but that would be an awesome feature.
+Since the issues are turned off in this repo, I'll use a PR.
+May I somehow contribute?
+
 ## Latest Version
 v1.6.0
 
