@@ -3,6 +3,13 @@ A quick and easy panic log extraction and analysis tool for iDevices.
 
 <img src="https://github.com/waynebonc/iDeviceLogAnalyzer-public/blob/master/image.jpg" width="350">
 
+## Features
+- Database of over 100 known issues
+- One click read and analyze logs directly from a device
+- Import Mode - offline analysis of any panic log retrieved or shared elsewhere
+- Signature solutions are shown in bold red
+- Permanently delete one or all logs on a device
+
 ## Downloading Setup
 To download the latest setup, use this [link](https://github.com/waynebonc/iDeviceLogAnalyzer-public/releases/download/1.7.0/Setup.exe).
 
