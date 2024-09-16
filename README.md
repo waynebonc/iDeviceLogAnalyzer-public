@@ -11,7 +11,7 @@ A quick and easy panic log extraction and analysis tool for iDevices.
 - Permanently delete one or all logs on a device
 
 ## Downloading Setup
-To download the latest setup, use this [link](https://github.com/waynebonc/iDeviceLogAnalyzer-public/releases/download/1.7.3/Setup.exe).
+To download the latest setup, use this [link](https://github.com/waynebonc/iDeviceLogAnalyzer-public/releases/download/1.7.4/Setup.exe).
 
 ## Supported Devices
 Officially supported are all iPhones, iPads and iPod touch on iOS 12 and later. I have successfully tested this as low as iOS 10.3.3, but there are no guarantees it will work as expected.
